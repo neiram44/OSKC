@@ -1721,6 +1721,8 @@ People
 					Frowning
 					Pursed lip
 					Smiling
+					Sade
+					Suprised
 				[Eyes]
 					Amber eyes
 					Blue eyes
