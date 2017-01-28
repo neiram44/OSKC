@@ -5,7 +5,8 @@ OSKC stands for Open Source Keywords Catalogue.
 
 It can be used within DAM like *Photo Mechanic 5* (Tested), *Lightroom*(Tested on an old version)
 
-Forked from Markorosic fantastic work.
+Forked from Markorosic fantastic work because I didn't get any answer from him.
+https://github.com/markorosic/open-keyword-catalog
 
 Trying to update / upgrade it. 
 
