@@ -1,4 +1,3 @@
-
 [Region&Countries]
 	Africa
 		Algeria
