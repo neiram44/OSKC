@@ -1981,6 +1981,12 @@ Style
 	Population explosion
 	Product
 	Retirement
+	Religions
+		Buddhism
+			Buddha
+		Christianity
+		Hinduism
+		Islam
 	Traditional culture
 	Travel
 		Business travel
