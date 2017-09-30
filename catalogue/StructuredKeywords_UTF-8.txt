@@ -932,6 +932,12 @@ Culture
 	Toy
 	Typewriter
 	Umbrella
+	Vehicle
+		Car
+		Motorcycle
+		Truck
+		Bus
+		School Bus
 	Wall
 People
 	{Human being}
